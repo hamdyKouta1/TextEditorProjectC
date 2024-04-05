@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700431511 source:e:\iti\c\note_editor_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<MyLibrary.h>
+
